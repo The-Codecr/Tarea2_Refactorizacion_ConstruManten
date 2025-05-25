@@ -22,7 +22,7 @@ y mantenible. Se aplica la simplificación y la reutilización de métodos.
     private void updateItem(Item item) {
         switch (item.name) {
             case "Aged Brie":
-                updateAgedBrie(item);
+                updateAgedBrie(item);+
                 break;
             case "Backstage passes to a TAFKAL80ETC concert":
                 updateBackstagePass(item);
